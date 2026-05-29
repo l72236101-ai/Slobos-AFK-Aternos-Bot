@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vipersmp-v0Yy.aternos.me:35597",
-    "port": ,
+    "ip": "vipersmp-v0Yy.aternos.me",
+    "port":35597 ,
     "version": "",
     "try-creative": false
   },
